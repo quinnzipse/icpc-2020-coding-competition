@@ -2,7 +2,7 @@
 
 [@Ben-Boehlke](https://github.com/Ben-Boehlke) and I competed in the North Central North America Regional and got 44th place. These are our answers written in Java.
 
-Links to everything is below.
+Links to everything below.
 
 ### Final Standings
 [https://ncna20.kattis.com/standings](https://ncna20.kattis.com/standings)
