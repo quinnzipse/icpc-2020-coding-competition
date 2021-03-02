@@ -10,5 +10,5 @@ Links to everything below.
 ### Problem Set
 [https://ncna-region.unl.edu/NCNA_2020.pdf](https://ncna-region.unl.edu/NCNA_2020.pdf)
 
-## ICPC NCNA Home Page
+### ICPC NCNA Home Page
 [https://ncna-region.unl.edu/](https://ncna-region.unl.edu/)
