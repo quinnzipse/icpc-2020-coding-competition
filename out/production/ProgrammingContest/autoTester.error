@@ -1,0 +1,6 @@
+eulerTest\EulersNumber.java:7: error: cannot find symbol
+    public static vod main(String[] args) {
+                  ^
+  symbol:   class vod
+  location: class EulersNumber
+1 error
